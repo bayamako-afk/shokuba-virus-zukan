@@ -1,0 +1,9 @@
+asset_id,episode_id,category,asset_name,description,status,source,reusable,notes
+AST-001,EP___,background,Office Open Floor,Standard Japanese office with neutral lighting,needed,new,true,
+AST-002,EP___,location,Meeting Room,Small meeting room with glass wall,needed,new,true,
+AST-003,EP___,prop,Laptop,Ordinary company laptop in current workplace style,needed,existing,true,
+AST-004,EP___,prop,Smartphone,Personal smartphone for home transition scene,needed,existing,true,
+AST-005,EP___,ui,Defense Log Overlay,UI graphic for infection logging scene,needed,new,true,
+AST-006,EP___,audio,Sigh Sound,Subtle sigh that triggers atmosphere shift,needed,new,true,
+AST-007,EP___,costume,Office Casual Outfit,Realistic company attire matching protagonist role,needed,new,false,
+AST-008,EP___,location,Home Desk Room,Small apartment room for self-defense unit scene,needed,new,true,
