@@ -41,14 +41,14 @@
 
 ## クマ課長｜想定ファイル名
 
-クマ課長は、前半5話で一貫して**大きく怒らずに空気を固定する圧力源**として機能する。そのため、表情差分も感情の激しさより、圧の種類の違いが分かる名前で揃える方が実務上わかりやすい。
+クマ課長は、前半5話で一貫して**大きく怒らずに空気を固定する圧力源**として機能する。そのため、表情差分も感情の激しさより、圧の種類の違いが分かる名前で揃える方が実務上わかりやすい。なお、EP002の差し戻し差分は保存実績に合わせ、`pressure_soft_recheck` ではなく、短縮した `soft_recheck` を実運用名とする。
 
 | 用途 | 想定ファイル名 | 主な使用話 |
 |---|---|---|
 | 管理職基準圧 | `kuma_kacho_expression_base_manager_v01.png` | EP001〜EP005 |
 | ため息圧 | `kuma_kacho_expression_pressure_sigh_v01.png` | EP001 |
 | 無言支配 | `kuma_kacho_expression_pressure_silent_control_v01.png` | EP001 |
-| 静かな差し戻し | `kuma_kacho_expression_pressure_soft_recheck_v01.png` | EP002 |
+| 静かな差し戻し | `kuma_kacho_expression_soft_recheck_v01.png` | EP002 |
 | 会議支配 | `kuma_kacho_expression_pressure_meeting_control_v01.png` | EP003 |
 | 軽口指示 | `kuma_kacho_expression_pressure_light_order_v01.png` | EP004 |
 | 遠景圧 | `kuma_kacho_expression_base_distant_pressure_v01.png` | EP005 |
@@ -81,7 +81,7 @@
 | 1 | `moriya_mamoru_expression_micro_stop_v01.png` |
 | 2 | `moriya_mamoru_expression_fatigue_blank_v01.png` |
 | 3 | `kuma_kacho_expression_pressure_sigh_v01.png` |
-| 4 | `kuma_kacho_expression_pressure_soft_recheck_v01.png` |
+| 4 | `kuma_kacho_expression_soft_recheck_v01.png` |
 | 5 | `aizawa_ritsuko_expression_reinforce_silent_v01.png` |
 | 6 | `aizawa_ritsuko_expression_reinforce_soft_justify_v01.png` |
 | 7 | `aizawa_ritsuko_expression_reinforce_request_smile_v01.png` |
