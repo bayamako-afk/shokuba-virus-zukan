@@ -67,9 +67,9 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | EP001 | 朝のため息 | ため息ウイルス | fixed | EP001_tameiki_virus_anime | not_started | EP001_tameiki_virus_liveaction | uploaded | prompt_ready | mixed | both | not_scheduled | 実験結果を受けて2レーン運用へ移行 |
 | EP002 | 差し戻し確認 | 差し戻し確認ウイルス | drafted | EP002_sashimodoshi_confirm_virus_anime | not_started | EP002_sashimodoshi_confirm_virus_liveaction | not_started | not_started | not_started | none | not_scheduled | 正式キーは共通脚本確定後に最終固定 |
-| EP003 | 責任転嫁 | 責任転嫁ウイルス | drafted | EP003_sekinin_tenga_virus_anime | not_started | EP003_sekinin_tenga_virus_liveaction | not_started | not_started | not_started | none | not_scheduled | 共通脚本確定後に細部更新 |
+| EP003 | 責任転嫁 | 丸投げウイルス | drafted | EP003_sekinin_tenga_virus_anime | not_started | EP003_sekinin_tenga_virus_liveaction | not_started | not_started | not_started | none | not_scheduled | 共通脚本確定後に細部更新 |
 | EP004 | 口頭指示 | 口頭指示ウイルス | drafted | EP004_koto_shiji_virus_anime | not_started | EP004_koto_shiji_virus_liveaction | not_started | not_started | not_started | none | not_scheduled | 共通脚本確定後に細部更新 |
-| EP005 | なぜか君担当 | なぜか君担当ウイルス | drafted | EP005_nazeka_kimi_tanto_virus_anime | not_started | EP005_nazeka_kimi_tanto_virus_liveaction | not_started | not_started | not_started | none | not_scheduled | 共通脚本確定後に細部更新 |
+| EP005 | なぜか君担当 | 責任なすりつけウイルス | drafted | EP005_nazeka_kimi_tanto_virus_anime | not_started | EP005_nazeka_kimi_tanto_virus_liveaction | not_started | not_started | not_started | none | not_scheduled | 共通脚本確定後に細部更新 |
 
 ## 6. 実務での使い方
 

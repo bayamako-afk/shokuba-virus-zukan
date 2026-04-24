@@ -31,9 +31,9 @@ The current starter focus for Season 1 is built around the following early candi
 |---|---|
 | EP001 | ため息ウイルス |
 | EP002 | 差し戻し確認ウイルス |
-| EP003 | 責任転嫁ウイルス |
+| EP003 | 丸投げウイルス |
 | EP004 | 口頭指示ウイルス |
-| EP005 | なぜか君担当ウイルス |
+| EP005 | 責任なすりつけウイルス |
 
 ## Operating principle
 The production rule for this repository is **structure first, generation later**. That means episode logic, character roles, ending format, and reusable assets should be fixed in Markdown before image or video work begins. This helps keep execution lightweight and repeatable across the Season 1 mass-production phase.
